@@ -1,0 +1,96 @@
+*
+{
+   
+    font-size: 1.em;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold; /*gras*/
+    text-decoration: none;
+    text-align: center;
+    background: url(fond.png) fixed no-repeat;
+    opacity: 1; /*transparence*/
+
+
+}
+
+p
+{
+    text-align: justify;
+    margin-left: 9px;
+    margin-right: 600px;
+    margin-top: 10px;
+    margin-bottom: auto;
+    overflow: auto;
+    word-wrap: break-word;
+    overflow: scroll;
+
+
+}
+
+h1
+{   text-align: center;
+    border: 3px blue solid;
+    border-radius: 20px;
+    box-shadow: 9px 6px 9px blue;
+    text-shadow: 9px 6px 9px black;
+    width: 50%;
+}
+
+nav
+
+{
+    : red;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
+
+nav li
+{
+    margin-left: 15px;
+}
+
+
+#entete
+{
+   /*
+   
+    border: 1px blue solid;
+    display: inline block;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    display: flex;
+    flex-wrap: wrap;
+
+    align-items: flex-end;
+    margin: auto;
+    color: red;
+    position: absolute;
+    top: 0px;
+    right: 0px;*/
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
